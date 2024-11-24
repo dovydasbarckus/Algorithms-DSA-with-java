@@ -7,7 +7,7 @@ public class SelectionSort {
 
         long start = System.nanoTime();
         int[] result = selectionSorting(numbers);
-        long end = System.nanoTime();;
+        long end = System.nanoTime();
         System.out.println(Arrays.toString(result));
         System.out.println("Sorting takes " +
                 (end - start) + " nano seconds");
