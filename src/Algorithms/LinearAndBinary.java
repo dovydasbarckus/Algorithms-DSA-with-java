@@ -1,3 +1,5 @@
+package Algorithms;
+
 import java.util.stream.IntStream;
 
 public class LinearAndBinary {
